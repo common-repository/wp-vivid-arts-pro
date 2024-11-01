@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ #vaa4wp-admin .row .col-4,
+.vaa4wp-admin .row .col-4 {
+   width: 66.666%;
+}
